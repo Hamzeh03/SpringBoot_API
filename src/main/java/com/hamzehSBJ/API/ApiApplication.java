@@ -11,3 +11,8 @@ public class ApiApplication {
 	}
 
 }
+
+
+/*
+https://.postman.co/workspace/My-Workspace~a9beb504-f83a-435a-8e79-103877d692b6/collection/39787172-aacc3da9-2b74-4f0b-b3f9-639f7a91ebc1?action=share&creator=39787172
+ */
